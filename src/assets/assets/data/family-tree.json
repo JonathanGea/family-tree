@@ -1,0 +1,12 @@
+[
+    { "id": "cbb6c656-96bb-4908-824a-428df6b9eb51", "name": "Ahmad", "father_id": null, "mother_id": null, "level": 0 },
+    { "id": "031bd954-3fb3-4989-bf7b-6974c25b0f20", "name": "Ani", "father_id": null, "mother_id": null, "level": 0 },
+    { "id": "36f7a317-aaa9-43b9-b0b9-c8a0c6bb3026", "name": "Rina", "father_id": null, "mother_id": null, "level": 0 },
+    { "id": "8ba2ef81-93a8-4cba-abd7-16ab973fa563", "name": "Siti", "father_id": null, "mother_id": null, "level": 0 },
+    { "id": "f42ca6c8-b278-4d84-a3c8-c9702a3d4e6e", "name": "Andi", "father_id": "97c5bb75-12cb-4802-908b-04a2001cb154", "mother_id": "031bd954-3fb3-4989-bf7b-6974c25b0f20", "level": 1 },
+    { "id": "9d28bb47-c82b-457d-895b-d20a0c13ce2e", "name": "Budi", "father_id": "cbb6c656-96bb-4908-824a-428df6b9eb51", "mother_id": "8ba2ef81-93a8-4cba-abd7-16ab973fa563", "level": 1 },
+    { "id": "026c813d-8715-42a7-bc93-2bbf502f8f64", "name": "Dika", "father_id": "9d28bb47-c82b-457d-895b-d20a0c13ce2e", "mother_id": "36f7a317-aaa9-43b9-b0b9-c8a0c6bb3026", "level": 1 },
+    { "id": "97c5bb75-12cb-4802-908b-04a2001cb154", "name": "Joko", "father_id": "cbb6c656-96bb-4908-824a-428df6b9eb51", "mother_id": "8ba2ef81-93a8-4cba-abd7-16ab973fa563", "level": 1 },
+    { "id": "8c22b731-9f3a-40af-9fc5-c88a13e927a8", "name": "Sari", "father_id": "97c5bb75-12cb-4802-908b-04a2001cb154", "mother_id": "031bd954-3fb3-4989-bf7b-6974c25b0f20", "level": 1 }
+  ]
+  
